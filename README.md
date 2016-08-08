@@ -19,7 +19,8 @@ The dialog must have only an "OK" button that dismisses the dialog.
 ## Guidelines
 
 Write the code to be production-grade. You are free to use whether library
-you want.
-
+you want. Once finish, create a commit with your code changes. Zip back
+your project and send it back to the interviewer that sent you the bare
+project.
 
 This message will auto-destruct itself after 90 minutes.
