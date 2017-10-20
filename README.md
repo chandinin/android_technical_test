@@ -27,5 +27,4 @@ email. An acknowledgment will be sent to you after reception if everything
 is all right.
 
 **Do not** send pull request on the repository.
-
-This message will auto-destruct itself after 90 minutes.
+**Do not** fork the repository with your solution.
